@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: kgh0lxn0v-go-repository
+spec:
+  url: https://github.com/RHTAP-Bmarcynk/kgh0lxn0v-go
